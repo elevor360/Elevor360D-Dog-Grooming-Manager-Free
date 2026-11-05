@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "dog-grooming-manager-free",
+  "group": "business",
+  "refreshMinutes": 30
+}
